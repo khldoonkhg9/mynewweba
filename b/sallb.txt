@@ -6,7 +6,7 @@ this is a test webpag
 </head>
 <body bgcolor="FF1122">
 <p> Taif university is always in the foreground</p>
-<p> جامعة الطائف دائماً في تصنيف متقدم </p>
+<p> جامعة الطائف دائماً في تصنيفaaaaaaaaaaaaa متقدم </p>
 <img src="s.jpg" width="500" height="250" />
 </body>
 </html>
